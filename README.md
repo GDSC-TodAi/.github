@@ -7,28 +7,7 @@
 > 독거 노인의 정서적 고립을 예방하는 AI 말벗 서비스, **말동무**
 
 <br/>
-
-<!-- 서비스 배포 후 아래 링크를 실제 URL로 교체해주세요 -->
-[![Service](https://img.shields.io/badge/🔗_서비스_링크-추후_추가_예정-lightgrey?style=for-the-badge)](#)
-[![Google Solution Challenge](https://img.shields.io/badge/Google_Solution_Challenge-출품작-4285F4?style=for-the-badge&logo=google)](https://developers.google.com/community/gdsc-solution-challenge)
-
-</div>
-
 <br/>
-
----
-
-## 목차
-
-1. 프로젝트 개요 (Overview)
-2. 프로젝트 배경 (Background)
-3. 프로젝트 목표 (Goal)
-4. 주요 기능 (Features)
-5. 팀원 (Team)
-6. 기술 스택 (Tech Stack)
-7. 프로젝트 구조 (Structure)
-8. 조직 구성도 (Organization)
-9. 설치 및 실행방법 (Getting Started)
 
 ---
 
